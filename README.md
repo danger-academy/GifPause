@@ -1,0 +1,2 @@
+# GifPause
+pausing animated gifs
